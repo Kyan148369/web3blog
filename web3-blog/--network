@@ -1,0 +1,15 @@
+[?25l[36m?[39m [1mProtocol[22m [2m…[22m 
+[36m▸[39m [36m[4marweave[24m[39m
+  ethereum
+  near
+  cosmos[4A[14G[4B[2K[F[2K[F[2K[F[2K[F[2K[1G[32m✔[39m [1mProtocol[22m [2m·[22m [36marweave[39m[6D
+[?25l[36m?[39m [1mProduct for which to initialize[22m [2m…[22m 
+[36m▸[39m [36m[4msubgraph-studio[24m[39m
+  hosted-service[2A[37G[2B[2K[F[2K[F[2K[1G[32m✔[39m [1mProduct for which to initialize[22m [2m·[22m [36msubgraph-studio[39m[14D
+[?25l[?25l[36m?[39m [1mSubgraph slug[22m [2m‣[22m [46m[30m[30mm[39m[30m[39m[49m[36m[2mumbai[22m[39m[12D[2K[1G[32m✔[39m [1mSubgraph slug[22m [2m·[22m [32mmumbai[39m[12D
+[?25l[36m?[39m [1mDirectory to create the subgraph in[22m [2m‣[22m [46m[30m[30mm[39m[30m[39m[49m[36m[2mumbai[22m[39m[12D[2K[1G[32m✔[39m [1mDirectory to create the subgraph in[22m [2m·[22m [32mmumbai[39m[12D
+[?25l[36m?[39m [1mArweave network[22m [2m…[22m 
+[36m▸[39m [36m[4marweave-mainnet[24m[39m[1A[21G[1B[2K[F[2K[1G[32m✔[39m [1mArweave network[22m [2m·[22m [36marweave-mainnet[39m[21D
+[?25l[?25l[0m———[0m
+[31mThe Subgraph Studio only allows subgraphs for these networks: mainnet, rinkeby[39m
+[?25h[?25h[?25h[?25h[?25h[?25h[?25h[?25h
