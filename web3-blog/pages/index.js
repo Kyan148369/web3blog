@@ -6,7 +6,7 @@ import { ethers } from 'ethers'
 import Link from 'next/link'
 import { AccountContext } from '../context'
 
-/* import contract address and contract owner address */
+/* import contract address or contract owner address */
 import {
   contractAddress, ownerAddress
 } from '../config'
